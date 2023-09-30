@@ -133,9 +133,7 @@ In this screen, simply click "finish."
 
 Now, right-click our newly created "assets" folder and open it in Explorer.
 
-![Open Assets Folder in Explorer](https://github.com/SuperTavor/TWAndroid/assets/111663937/7aaf948f-
-
-44ec-486c-b5b4-9734c64c169a)
+![Open Assets Folder in Explorer](https://github.com/SuperTavor/TWAndroid/assets/111663937/7aaf948f-44ec-486c-b5b4-9734c64c169a)
 
 Place your exported TurboWarp game in there and rename it to "game.html".
 
