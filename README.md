@@ -181,5 +181,12 @@ In your project, open the 'manifests' and double-click "AndroidManifest.xml." Pa
 </manifest>
 ```
 
+# Building
+To build, click the hammer icon. 
+
+![image](https://github.com/SuperTavor/TWAndroid/assets/111663937/13829d24-b380-4cfb-8ca9-e7a16e6660a7)
+
+To find your output APK, open your project in file explorer. The final build should be in build\outputs\apk\debug.
+
 # Conclusion
-That concludes our guide! To further enhance your app with features like icons or advertisements, feel free to follow any Android app tutorials available. Happy game making!
+That concludes our guide! To further enhance your app with features like icons or advertisements, feel free to follow any Android app tutorials available. If you found this guide helpful, kindly leave a star!
