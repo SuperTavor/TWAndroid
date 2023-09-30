@@ -145,7 +145,7 @@ Place your exported TurboWarp game in there and rename it to "game.html".
 
 ## Setting up AndroidManifest.xml
 
-In your project, open the 'manifests' and double-click "AndroidManifest.xml." Paste this code in, BUT!
+In your project, open the 'manifests' folder and double-click "AndroidManifest.xml." Paste this code in, BUT!
 - In line 4, replace the sample package name with your app's package name.
 - In line 14, replace the sample app name with your app's name (not package name, just the name).
 - In line 17, replace `your.package.name.MainActivity` with your actual package name followed by `.MainActivity`.
