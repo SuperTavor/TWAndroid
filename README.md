@@ -86,7 +86,7 @@ You will be directed to the following screen:
 
 Set the directory name to "layout" and the resource type to "layout" as well. Now, click "OK." Here's how the final resource directory options should look:
 
-![Resource Directory Options](https://github.com/SuperTavor/TWAndroid/assets/111663937/8326e380-79a3-4a37-bbe1-b7c4a17f76cf)
+![image](https://github.com/SuperTavor/TWAndroid/assets/111663937/f9d7b181-8dae-4301-a599-de3c68711a44)
 
 Right-click on the newly created folder and create a Layout Resource File.
 
