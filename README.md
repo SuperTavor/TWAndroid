@@ -1,8 +1,9 @@
 
-# Exporting TurboWarp Projects to Android - A Comprehensive Guide
+# Exporting TurboWarp Projects to Android - A Guide
 
 ## Prerequisites
 - Android Studio
+
 - 
 ## Creating the Project
 ### Step 1
