@@ -118,7 +118,7 @@ Paste in the following code:
 
 ## Importing Your TurboWarp Game
 ### Step 1
-Export your TurboWarp project as HTML. If you want your game resolution to fit a vertical mobile screen, I recommend using 360x640. Additionally, it's advisable to enable the option below, as it addresses a sound bug that doesn't affect our app:
+Export your TurboWarp project as HTML. If you want your game resolution to fit a vertical mobile screen, I recommend using 360x640. Additionally, I recommend using this option:
 
 ![Export TurboWarp Project](https://github.com/SuperTavor/TWAndroid/assets/111663937/099b452a-3a17-4509-a7db-518c48e0494b)
 
