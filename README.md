@@ -4,7 +4,6 @@
 ## Prerequisites
 - Android Studio
 
-
 ## Creating the Project
 ### Step 1
 Begin by launching Android Studio and initiating a new project. Ensure you select "No Activity" as your project template and proceed by clicking "Next."
