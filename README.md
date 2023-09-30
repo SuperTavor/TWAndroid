@@ -41,7 +41,7 @@ Name it "MainActivity."
 ![Name MainActivity](https://github.com/SuperTavor/TWAndroid/assets/111663937/6913c88f-e4dd-4edd-ae12-700c0cb83c59)
 
 ### Step 2
-Paste in the following code, but don't forget to replace the sample package name at the top with your actual package name. Don't worry about compilation errors; we will resolve them in the next step.
+Paste in the following code, but don't forget to replace the sample package name at the top with your actual package name. Don't worry about compilation errors; They will be resolved once we set up our layout.
 
 ```java
 package your.package.name;
